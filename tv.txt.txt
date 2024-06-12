@@ -1,6 +1,6 @@
 
 {
-	"spider": "http://mdxgh.tpddns.cn:9999/kxlib/md.jar",
+	"spider": "/kxlib/md.jar",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 	"lives": [{
 		    "name": "live",
